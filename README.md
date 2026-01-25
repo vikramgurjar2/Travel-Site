@@ -8,8 +8,7 @@ The project is **deployed on Vercel** for fast and reliable hosting.
 ## 🚀 Live Demo
 
 🔗 Deployed on Vercel  
-👉 https://travel-site-git-main-vikrams-projects-424a00b2.vercel.app  
-*(URL may vary depending on deployment)*
+👉 https://travel-site-new.vercel.app/
 
 ---
 
